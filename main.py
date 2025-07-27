@@ -1,5 +1,11 @@
-print("Welcome to the world of programming!")
-print(4)
-print("Hello python /n")
-print("hello",5)
-print("welcome" , end= "*")
+a = 5 
+print("type of a: ", type (a))
+
+b=2.5
+print("type of b: ", type(b))
+
+c="coding"
+print("type of c: ", type(c))
+
+d= True
+print("type of d: ", type(d))
